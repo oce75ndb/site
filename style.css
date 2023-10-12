@@ -1,0 +1,42 @@
+/*body = sélécteur (type élément)*/
+body{
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    color: blueviolet; /*Couleur du texte*/
+    font-size: 16px; /*Taille de la font*/
+    font-weight: normal; /*Graisse de a font*/
+}
+
+h1 {
+    color:darkmagenta
+}
+
+li {
+    color:deeppink
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.barre{
+    text-decoration:underline
+}
+
+.italique{
+    font-style: italic;
+}
+
+/*paragraphe 1 = sélécteur (type id)*/
+#paragraphe1 {
+    font-size: 18px;
+    letter-spacing: 3px;
+}
+
+#paragraphe2 {
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+
+nav a {
+    color:cornflowerblue
+}
